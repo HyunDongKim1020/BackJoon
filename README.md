@@ -1,4 +1,8 @@
-## 😊백준 문제풀이😊
+<div align="center">
+  
+  ## 😊백준 문제풀이😊
+
+</div>
 
 <div align="center">
   
